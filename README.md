@@ -1,6 +1,6 @@
 # *u* -XRF in plant seeds-Image Analysis Pipeline
 
-Yu-Peng Zhu (朱玉鹏) <sup>1 </sup>,Peter M. Kopittke <sup>2</sup>,David E Salt <sup>3 </sup>, Zhong Tang (唐仲)<sup>1</sup>, *Peng Wang(汪鹏)<sup>1*,*4 </sup>
+Yu-Peng Zhu (朱玉鹏) <sup>1 </sup>,Peter M. Kopittke <sup>2</sup>,David E Salt <sup>3 </sup>, Zhong Tang (唐仲)<sup>1</sup>, Peng Wang(汪鹏)<sup>1*,*4 </sup>
 
 <sup>1</sup>Nanjing Agricultural
 University, State Key Laboratory of Crop Genetics and Germplasm Enhancement,
