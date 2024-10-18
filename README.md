@@ -1,24 +1,24 @@
 # *u* -XRF in plant seeds-Image Analysis Pipeline
 
-Yu-Peng Zhu (朱玉鹏) <sup>1 </sup>,Peter M. Kopittke `<sup>`2 `</sup>`,David E Salt `<sup>`3 `</sup>`, Zhong Tang (唐仲)`<sup>`1,* *`</sup>`, *Peng Wang(汪鹏)`<sup>`1*,*4 `</sup>`
+Yu-Peng Zhu (朱玉鹏) <sup>1 </sup>,Peter M. Kopittke <sup>2</sup>,David E Salt <sup>3 </sup>, Zhong Tang (唐仲)<sup>1</sup>, *Peng Wang(汪鹏)<sup>1*,*4 </sup>
 
-*`<sup>` *1`</sup>`*Nanjing Agricultural
+*<sup>1</sup>Nanjing Agricultural
 University, State Key Laboratory of Crop Genetics and Germplasm Enhancement,
 College of Resources and Environmental Sciences, Nanjing, Jiangsu 210095, China*
 
-`<sup>` 2 `</sup>`*The University of
+<sup>2 </sup>The University of
 Queensland, School of Agriculture and Food Sciences, St. Lucia, Queensland
 4072, Australia*
 
-`<sup>` 3 `</sup>`School
+<sup>3</sup>School
 of Biosciences, University of Nottingham, Sutton Bonington Campus,
 Loughborough, Leicestershire LE12 5RD, UK
 
-*`<sup>` 4 `</sup>`Center for Agriculture
+<sup>4</sup>Center for Agriculture
 and Health, Academy for Advanced Interdisciplinary Studies, Nanjing
 Agricultural University, Nanjing 210095, China*
 
-`<sup>` * `</sup>`Correspondence for the source code:Yu-Peng Zhu([2023203050@stu.njau.edu.cn](mailto:2018101176@njau.edu.cn)); Peng Wang ([p.wang3@naju.edu.cn](mailto:p.wang3@naju.edu.cn)) and Zhong Tang ([tangzhong@njau.edu.cn](mailto:tangzhong@njau.edu.cn))
+<sup> * </sup>Correspondence for the source code:Yu-Peng Zhu([2023203050@stu.njau.edu.cn](mailto:2018101176@njau.edu.cn)); Peng Wang ([p.wang3@naju.edu.cn](mailto:p.wang3@naju.edu.cn)) and Zhong Tang ([tangzhong@njau.edu.cn](mailto:tangzhong@njau.edu.cn))
 
 ## Description of main documents
 
